@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91edc333-9cf7-408d-af68-ca9934121424" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.xml" afterPath="$PROJECT_DIR$/test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="files.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,8 +34,38 @@
               <caret line="655" column="0" selection-start-line="655" selection-start-column="0" selection-end-line="655" selection-end-column="0" />
               <folding>
                 <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#1;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#2;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#3;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#4;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#5;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
                 <element signature="n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#summaryHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#descriptionHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#0;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#1;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#2;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#3;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#4;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#5;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#6;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#7;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#8;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
                 <element signature="n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#summaryHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#descriptionHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#0;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#1;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#2;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#3;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#4;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#5;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#6;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#7;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+                <element signature="n#session#8;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -183,8 +212,38 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#6;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#7;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#8;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
             <element signature="n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#6;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#7;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#8;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -195,8 +254,38 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#6;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#7;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#8;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
             <element signature="n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#6;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#7;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#8;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -207,8 +296,38 @@
           <caret line="655" column="0" selection-start-line="655" selection-start-column="0" selection-end-line="655" selection-end-column="0" />
           <folding>
             <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#6;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#7;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#8;n#sessions#0;n#event#1;n#events#0;n#!!top" expanded="false" />
             <element signature="n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#summaryHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#descriptionHTML#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#0;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#1;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#2;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#3;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#4;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#5;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#6;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#7;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
+            <element signature="n#session#8;n#sessions#0;n#event#2;n#events#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
