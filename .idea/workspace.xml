@@ -30,10 +30,9 @@
       <file leaf-file-name="test.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18983051" vertical-offset="0" max-vertical-offset="885">
-              <caret line="655" column="0" selection-start-line="655" selection-start-column="0" selection-end-line="655" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.09378531" vertical-offset="1" max-vertical-offset="1428">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding>
-                <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
                 <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
                 <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
                 <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
@@ -211,7 +210,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18508">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
@@ -253,7 +251,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18508">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
@@ -292,10 +289,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18983051" vertical-offset="0" max-vertical-offset="885">
-          <caret line="655" column="0" selection-start-line="655" selection-start-column="0" selection-end-line="655" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09378531" vertical-offset="1" max-vertical-offset="1428">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding>
-            <element signature="n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#summaryHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#descriptionHTML#0;n#event#0;n#events#0;n#!!top" expanded="false" />
             <element signature="n#session#0;n#sessions#0;n#event#0;n#events#0;n#!!top" expanded="false" />
